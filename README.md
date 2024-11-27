@@ -14,6 +14,7 @@ Hallo, ich bin Majd und leidenschaftlicher Selbstlerner im Bereich der Programmi
 ## Kontakt
 
 - 📧 E-Mail: majdalmotaem1998@gmail.com
+- 💼 LinkedIn: [Majd Almotaem](https://www.linkedin.com/in/majd-almotaem-5105b4266/)
 #
 Fühle dich frei, meine Repositories zu erkunden und Feedback zu geben. Ich bin immer offen für Zusammenarbeit und den Austausch von Erfahrungen. Lass uns gemeinsam wachsen und programmieren!
 
