@@ -9,6 +9,7 @@ Hallo, ich bin Majd und leidenschaftlicher Selbstlerner im Bereich der Programmi
 - 🐍 Python: Arbeite an verschiedenen Projekten, um meine Fähigkeiten in der Python-Entwicklung zu vertiefen.
 - 🌐 Webentwicklung: Erforsche HTML, CSS und JavaScript, um ansprechende und benutzerfreundliche Webseiten zu gestalten.
 - 💾 Datenbanken: Lerne SQL, um effizient auf Daten zuzugreifen und diese zu verwalten.
+- 📊 Data Analytics & AI Learning: Beschäftige mich in letzter Zeit intensiv mit Data Analysis und Machine Learning, um datengetriebene Einblicke zu gewinnen und intelligente Lösungen zu entwickeln.
 
 ## Kontakt
 
