@@ -42,6 +42,3 @@
 
 <br>
 
-<div align="center">
-  <i>"The strongest flex is being yourself. Doing what you love. Sharing what really matters to you."</i>
-</div>
