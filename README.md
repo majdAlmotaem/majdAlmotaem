@@ -20,9 +20,7 @@
 </div>
 
 ## 📊 Current Focus
-- **Software Development:** Building modern, scalable web interfaces with React and robust backend logic with Python.
-- **Automation & AI:** Creating intelligent workflows with n8n and leveraging AI models like Ollama to cut out repetitive tasks and upgrade efficiency.
-- **Cloud & Infrastructure:** Applying my AWS Solutions Architect Associate knowledge to real-world architecture.
+- Aktuell vertiefe ich meine Kenntnisse in Python-Backend-Entwicklung, REST APIs und Cloud-Grundlagen mit AWS.
 
 ## 📡 Connect
 <div align="left">
