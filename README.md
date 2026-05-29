@@ -8,10 +8,6 @@
 </div>
 
 ---
-
-## 🧠 The Mindset
-I approach software development with the same discipline I apply to life—focusing on what's real, ignoring the trends, and building things that actually matter. From automating complex workflows to building robust web applications, I write software that cuts through the noise.
-
 ## ⚙️ The Stack
 <div align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
