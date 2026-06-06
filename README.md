@@ -1,7 +1,6 @@
 <div align="center">
 
 # Majd Almotaem
-**Code isn't what I do. It’s how I think—a lifestyle of deep work and discipline.**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Software+Developer;Python+%2B+React;Automation+%2B+AI;Deep+Work.+No+Noise.)](https://git.io/typing-svg)
 
