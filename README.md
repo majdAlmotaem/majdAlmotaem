@@ -4,12 +4,6 @@
 
 # Majd Almotaem
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3200&pause=1000&color=E5A93B&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%26+AI+Automation;Clean+Architecture%3A+FastAPI+%E2%80%A2+SQL+%E2%80%A2+React+%E2%80%A2+AWS;Intelligent+Agents%3A+Gemini+API+%E2%80%A2+Ollama+%E2%80%A2+n8n+%E2%80%A2+UiPath;Privacy-First+Systems+That+Eliminate+Manual+Work;Deep+Work.+Clean+Code.+Measurable+Impact.)](https://git.io/typing-svg)
-
-<p align="center">
-  <em>"Code isn't just what I do. It’s how I think—a lifestyle of deep work and discipline."</em>
-</p>
-
 <p align="center">
   <a href="https://majdalmotaem.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Interactive_Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=e5a93b&labelColor=121212" alt="Portfolio" />
@@ -27,26 +21,6 @@
 
 ---
 
-### 🖥️ `guest@majd-portfolio: ~ (bash)`
-
-```yaml
-$ whoami --verbose
-name: "Majd Almotaem"
-role: "Software Developer (Fachinformatiker für Anwendungsentwicklung IHK)"
-certifications:
-  - "AWS Certified Solutions Architect – Associate (SAA)"
-  - "IT Specialist in Application Development (IHK Duisburg-Wesel-Kleve)"
-specialization:
-  backend:    ["Python", "FastAPI", "REST APIs", "PostgreSQL / SQLite / MySQL", "pytest"]
-  automation: ["n8n", "Ollama (Local LLMs)", "Google Gemini API", "UiPath RPA", "Multi-Agent Workflows"]
-  frontend:   ["React", "TypeScript", "JavaScript (ES6+)", "Vue.js", "Chrome Extensions (MV3)"]
-  security:   ["Privacy-by-Design (GDPR / DSGVO)", "RBAC Architecture", "On-Premise AI Pipelines"]
-mission: "Combining clean software architecture with LLMs & RPA to build privacy-first systems that cut manual work by 30%–90%."
-```
-
-> 💡 **Interactive CLI Mode:** Visit [**majdalmotaem.github.io/portfolio**](https://majdalmotaem.github.io/portfolio/) and press <kbd>Ctrl</kbd> + <kbd>K</kbd> to explore my projects, skills, and certificates inside a live Unix-like terminal.
-
----
 
 ### ⚙️ Tech Stack & Architecture
 
@@ -66,7 +40,7 @@ mission: "Combining clean software architecture with LLMs & RPA to build privacy
   <tr>
     <td><strong>🤖 AI & Automation</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Google_Gemini_API-050505?style=flat-square&logo=googlegemini&logoColor=e5a93b" alt="Gemini API" />
+      <img src="https://img.shields.io/badge/Google_Gemini_API-050505?style=flat-square&logo=googlegemini&logoColor=e5a93b" alt="MCP" />
       <img src="https://img.shields.io/badge/Ollama_(Local_LLM)-050505?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
       <img src="https://img.shields.io/badge/n8n_Workflows-050505?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
       <img src="https://img.shields.io/badge/UiPath_RPA-050505?style=flat-square&logo=uipath&logoColor=FA4616" alt="UiPath" />
