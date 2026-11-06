@@ -40,7 +40,7 @@
   <tr>
     <td><strong>🤖 AI & Automation</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Google_Gemini_API-050505?style=flat-square&logo=googlegemini&logoColor=e5a93b" alt="MCP" />
+      <img src="https://img.shields.io/badge/MCP-050505?style=flat-square&logo=googlegemini&logoColor=e5a93b" alt="MCP" />
       <img src="https://img.shields.io/badge/Ollama_(Local_LLM)-050505?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
       <img src="https://img.shields.io/badge/n8n_Workflows-050505?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
       <img src="https://img.shields.io/badge/UiPath_RPA-050505?style=flat-square&logo=uipath&logoColor=FA4616" alt="UiPath" />
